@@ -1,3 +1,11 @@
+#########################################
+#Dawa Wangdi
+#Instrumentation and Control 
+#02230211
+##########################################
+#REFERENCES
+#https://www.geeksforgeeks.org/python-programming-language/
+############################################
 import random
 
 class BankAccount:
